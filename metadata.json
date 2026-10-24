@@ -1,0 +1,6 @@
+{
+  "name": "Gallery",
+  "description": "iOS-inspired native Android photo and video gallery application with MediaStore timeline, custom albums, local search, full-screen viewer, and built-in non-destructive photo editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
